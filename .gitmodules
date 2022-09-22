@@ -4,3 +4,6 @@
 [submodule "src/mas_perception_libs"]
 	path = src/mas_perception_libs
 	url = git@github.com:b-it-bots/mas_perception_libs.git
+[submodule "src/executive_smach"]
+	path = src/executive_smach
+	url = git@github.com:ros/executive_smach.git
