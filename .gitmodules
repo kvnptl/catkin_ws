@@ -1,0 +1,3 @@
+[submodule "src/ros_learn"]
+	path = src/ros_learn
+	url = git@github.com:kvnptl/ros_learn.git
