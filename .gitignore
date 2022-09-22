@@ -1,0 +1,11 @@
+# ROS build files
+build/
+logs/
+devel/
+
+# catkin tools
+.catkin_tools/
+
+# vscode files
+.vscode/
+
