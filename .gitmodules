@@ -1,3 +1,6 @@
 [submodule "src/ros_learn"]
 	path = src/ros_learn
 	url = git@github.com:kvnptl/ros_learn.git
+[submodule "src/mas_perception_libs"]
+	path = src/mas_perception_libs
+	url = git@github.com:b-it-bots/mas_perception_libs.git
